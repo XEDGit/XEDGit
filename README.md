@@ -25,7 +25,7 @@ int main()
   exit (0);
 }
 ```
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
 <!--
 **XEDGit/XEDGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
