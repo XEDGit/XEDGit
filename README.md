@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I'm+XEDGit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23539BF5&size=40&center=true&multiline=true&width=900&lines=Hello+coders%2C+XEDGit+here+%F0%9F%96%96)](https://git.io/typing-svg)
 
 <!--
 **XEDGit/XEDGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
