@@ -7,20 +7,21 @@ int main()
   char  school[] = "Codam Coding College";
   char  wanna_be[] = "Back-end developer";
   char  languages[][] = {
-    "C#",
     "C",
+    "C#",
     "Python",
-    "Flutter",
     "HTML5",
     "Javascript",
-    "Node"
+    "Node",
+    "Flutter"
   };
   char  tools[][] = {
     "Debian",
     "Kali linux",
     "Windows",
+    "MacOS",
     "Visual Studio Code",
-    "Android Studio",
+    "Unity",
     "Google Cloud"
   }
   exit(0);
