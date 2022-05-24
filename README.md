@@ -2,14 +2,16 @@
 
 ```C
 #include <fun.h>
+#include <unistd.h>
 
 int main()
 {
   char  name[] = "XEDGit";
   char  school[] = "Codam Coding College";
   char  wanna_be[] = "Back-end developer";
-  char  languages[][] = { "C", "C#", "Python", "Javascript", "Flutter" };
-  char  tools[][] = { "Debian", "Kali linux", "Windows", "Visual Studio Code", "Unity", "Google Cloud" }
+  char  languages[][] = { "C", "C#", "Python", "Javascript", "PHP", "Flutter" };
+  char  tools[][] = { "Debian", "Kali linux", "Windows", \
+                      "Visual Studio Code", "Unity", "Google Cloud" };
   exit(0);
 }
 ```
