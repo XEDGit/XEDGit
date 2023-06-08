@@ -15,5 +15,3 @@ int main()
   exit(0);
 }
 ```
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt)
