@@ -8,7 +8,7 @@ int main()
 {
   char  name[] = "XEDGit";
   char  university[] = "Codam Coding College";
-  char  wanna_be[] = "Software engeneer";
+  char  wanna_be[] = "Software engineer";
   char  languages[6][] = { "C", "C++", "Python", "JS", "Flutter", "PHP" };
   exit(0);
 }
