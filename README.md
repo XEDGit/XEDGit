@@ -7,9 +7,10 @@
 int main()
 {
   char  name[] = "XEDGit";
-  char  university[] = "Codam Coding College";
+  char  current_education[] = "Codam Coding College";
   char  wanna_be[] = "Software engineer";
-  char  languages[6][] = { "C", "C++", "Python", "JS", "Flutter", "PHP" };
+  char  languages[6][] = { "C", "C++", "Python", "JS/TS", "Flutter", "PHP", "SQL" };
   exit(0);
 }
 ```
+<img src="https://tryhackme-badges.s3.amazonaws.com/XED.png" alt="TryHackMe">
