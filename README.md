@@ -14,4 +14,5 @@ int main()
   exit(0);
 }
 ```
-<img src="https://tryhackme-badges.s3.amazonaws.com/XED.png" alt="TryHackMe">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/XED.png)](https://tryhackme.com/p/XED)
