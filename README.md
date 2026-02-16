@@ -6,11 +6,10 @@
 
 int main()
 {
-  char  tag[] = "XEDGit";
-  char  current_education[] = "Codam Coding College";
-  char  wanna_be[] = "Software Engineer";
-  char  interests[3][] = { "Cybersecurity", "Game Developement/Design", "Back-end Developement" };
-  char  languages[6][] = { "C", "C++", "Python", "JS/TS", "Flutter", "PHP", "SQL" };
+  char  education[]  = "42 - Codam";
+  char  employment[] = "Back-end developer";
+  char* interests[]  = { "Cybersecurity", "Game Developement", "Back-end Developement", "Computer Vision" };
+  char* languages[]  = { "C", "C++", "Python", "JS/TS", "PHP" };
   exit(0);
 }
 ```
